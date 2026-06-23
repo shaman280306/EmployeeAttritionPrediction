@@ -349,12 +349,6 @@ Areas of Interest:
 * Predictive Analytics
 * Intelligent Systems
 
-GitHub:
-https://github.com/shaman280306
-
-LinkedIn:
-[www.linkedin.com/in/shaman-sharma](http://www.linkedin.com/in/shaman-sharma)
-
 ---
 
 ## 🏆 Internship Project Submission
